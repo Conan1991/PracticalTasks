@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBC9ikAnFbg8pUEWC3nqlinMHruK17hPjMbSv/mcK92ifca1Znf/e1tbcQB3W2QeaUYcw3/Q8HDIgbq225LCmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VitalyPC\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VitalyPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
